@@ -1,0 +1,10 @@
+.UserCard {
+  display: block;
+  box-sizing: border-box;
+  border: 3px solid black;
+  width: 500px;
+  height: auto;
+  padding: 5px;
+  margin: 5px auto;
+  text-align: left;
+}

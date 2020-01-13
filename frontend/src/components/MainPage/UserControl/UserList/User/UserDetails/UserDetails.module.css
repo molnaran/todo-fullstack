@@ -1,0 +1,12 @@
+.Avatar {
+  vertical-align: middle;
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  transition-duration: 0.5s;
+}
+.Details :hover {
+  cursor: pointer;
+  border: 10px black;
+  z-index: 10;
+}
